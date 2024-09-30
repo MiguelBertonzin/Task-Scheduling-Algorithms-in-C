@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1684201624 source:c:\users\miguel\desktop\so\trabalho\trabalho\cpu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"task.h"
+
+1684202298 c:\users\miguel\desktop\so\trabalho\trabalho\task.h
+
+1684202705 source:c:\users\miguel\desktop\so\trabalho\trabalho\driver.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"task.h"
+	"list.h"
+	"schedule_rr.h"
+	"schedule_fcfs.h"
+	"schedule_rr_p.h"
+
+1683638231 c:\users\miguel\desktop\so\trabalho\trabalho\list.h
+	"task.h"
+
+1684109491 c:\users\miguel\desktop\so\trabalho\trabalho\schedule_rr.h
+
+1684520834 source:c:\users\miguel\desktop\so\trabalho\trabalho\list.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"list.h"
+	"task.h"
+
+1684201843 source:c:\users\miguel\desktop\so\trabalho\trabalho\schedule_fcfs.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"schedule_fcfs.h"
+	"list.h"
+	"task.h"
+	<time.h>
+
+1684109828 c:\users\miguel\desktop\so\trabalho\trabalho\schedule_fcfs.h
+
+1684523451 source:c:\users\miguel\desktop\so\trabalho\trabalho\schedule_rr.c
+	"stddef.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"schedule_rr_p.h"
+	"list.h"
+	"task.h"
+	"CPU.h"
+
+1684523324 source:c:\users\miguel\desktop\so\trabalho\trabalho\schedule_rr_p.c
+	"stddef.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"schedule_rr_p.h"
+	"list.h"
+	"task.h"
+	"CPU.h"
+
+1683638231 c:\users\miguel\desktop\so\trabalho\trabalho\cpu.h
+	"task.h"
+
+1684201906 c:\users\miguel\desktop\so\trabalho\trabalho\schedule_rr_p.h
+
